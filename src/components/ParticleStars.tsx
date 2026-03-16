@@ -43,7 +43,7 @@ function Stars() {
 ────────────────────────────────────────── */
 function NodeGraph() {
     const groupRef = useRef<THREE.Group>(null!);
-    const { mouse, viewport } = useThree();
+    const { mouse } = useThree();
     const [scrollY, setScrollY] = useState(0);
 
     useEffect(() => {
