@@ -1,0 +1,25 @@
+
+> portfolio@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1115ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4.2s (496 modules)
+ GET / 200 in 4396ms
+ ✓ Compiled in 116ms (237 modules)
+ ✓ Compiled /favicon.ico in 64ms (282 modules)
+ GET /favicon.ico 200 in 94ms
+ GET / 200 in 57ms
+ GET /favicon.ico 200 in 3ms
+ ✓ Compiled in 2.9s (2478 modules)
+ GET / 200 in 4558ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 2.5s (1278 modules)
+ GET /favicon.ico 200 in 3430ms
+ GET /favicon.ico 200 in 3ms
+ GET / 200 in 272ms
+ GET /favicon.ico 200 in 8ms
